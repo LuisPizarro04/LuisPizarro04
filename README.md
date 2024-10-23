@@ -1,7 +1,7 @@
 ## ¡Hola, soy Luis Pizarro! 👋
 
 <!--
-**LuisPizarro04/LuisPizarro04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LuisPizarro04/LuisPizarro04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Soy **Ingeniero en Sistemas y Control de Gestión**, con una profunda pasión por la tecnología, el desarrollo de software y la optimización de procesos. A lo largo de mi carrera, me he enfocado en resolver problemas empresariales a través de la tecnología, desarrollando soluciones innovadoras que mejoran la eficiencia y el control en diferentes áreas.
 
@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
