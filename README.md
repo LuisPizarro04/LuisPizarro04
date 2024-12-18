@@ -6,7 +6,7 @@
 Soy **Ingeniero en Sistemas y Control de Gestión**, con una profunda pasión por la tecnología, el desarrollo de software y la optimización de procesos. A lo largo de mi carrera, me he enfocado en resolver problemas empresariales a través de la tecnología, desarrollando soluciones innovadoras que mejoran la eficiencia y el control en diferentes áreas.
 
 ## 🌟 Sobre mí
-- 🔧 Actualmente trabajo como **Ingeniero en Sistemas y Control de Gestión** en **Inmobiliaria Costanera Pacífico SPA** y **Constructora del Mar II SPA**.
+- 🔧 Actualmente trabajo como **Ingeniero en Sistemas y Control de Gestión** en **Inmobiliaria Costanera Pacífico SPA** y **Constructora del Mar II SPA**.  **[GITHUB Empresa](https://github.com/Dev-icpacifico):**
 - 💻 Tengo experiencia en una amplia gama de tecnologías: **Python**, **R**, **Java**, **SQL**, **Power BI**, y frameworks como **Django**. Utilizo herramientas como **MySQL Workbench**, **SQL Server**, **PostgreSQL** y **Pandas**, entre otras.
 - 🤖 Apasionado por la **inteligencia artificial** y el **machine learning**, he implementado proyectos que utilizan algoritmos avanzados para resolver problemas reales, como un sistema de citas médicas optimizado mediante aprendizaje automático.
 - 🎓 Además de mi experiencia práctica, he impartido clases de **Programación Avanzada en Java** en la **Universidad Católica del Norte**, y he publicado un artículo sobre **sistemas de aprendizaje automático aplicados a la salud pública**.
