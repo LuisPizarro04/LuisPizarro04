@@ -18,7 +18,7 @@ Soy **Ingeniero en Sistemas y Control de Gestión**, con una profunda pasión po
 - **Machine Learning**: Implementación de modelos de aprendizaje automático para mejorar la eficiencia de los sistemas y procesos, como la clasificación de citas médicas y la predicción de comportamientos de usuarios.
 
 ## 📈 Últimos proyectos destacados
-- **Sistema Planificación Last Planner® **: Desarrollo de un sistema que permitirá gestionar de mejor manera la aplicación de la metodología Last Planner System para proyectos de construcción.
+- **Sistema Planificación Last Planner®**: Desarrollo de un sistema que permitirá gestionar de mejor manera la aplicación de la metodología Last Planner System para proyectos de construcción.
 - **Sistema de Gestión Comercial y CRM**: Desarrollo de un sistema integral para gestionar y optimizar la venta de departamentos, con enfoque en la automatización de procesos y la recopilación eficiente de datos.
 - **Prototipo de sistema de citas médicas**: Creación de un sistema que utiliza **algoritmos de machine learning** para la asignación eficiente de citas médicas, basándose en restricciones y preferencias del usuario.
 - **Automatización de reportes COVID**: Implementación de scripts en R para la **Seremi de Salud**, automatizando reportes y mejorando el análisis de datos relacionados con la pandemia.
@@ -31,6 +31,10 @@ Soy **Ingeniero en Sistemas y Control de Gestión**, con una profunda pasión po
 - **IDE**: Visual Estudio Code, Pycharm, IntelliJ
 - **Metodologías**: Scrum, Kanban, Last Planner System
 
+## 📄 Publicaciones
+- **[Machine Learning Healthcare Scheduling System for the Chilean Primary Public Health
+Network](https://revistas.ug.edu.ec/index.php/easi/article/view/600)** 
+  
 ## 🌱 Siempre aprendiendo
 Soy un firme creyente en la mejora continua y la necesidad de mantenerse actualizado en las últimas tendencias tecnológicas. Por ello, he completado diversas certificaciones, incluyendo:
 - **Modelamiento de Bases de Datos y Consultas con SQL Server** - Pontificia Universidad Católica de Chile
